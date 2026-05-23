@@ -1,4 +1,4 @@
-# Introducció al Disseny d'Esquemes Elèctrics amb EPLAN
+# Introducció al Disseny d'Esquemes Elèctrics amb ePLAN
 
 *Curs 2025/2026 · David Mallén Julve*
 
